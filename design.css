@@ -162,7 +162,7 @@ section .title::after {
 }
 
 .navbar .menu li a:hover {
-    color: yellow;
+    color: purple;
 }
 
 .navbar.sticky .menu li a:hover {
